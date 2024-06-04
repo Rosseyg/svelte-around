@@ -1,0 +1,19 @@
+{
+  "name": "svelte-around",
+  "version": "1.0.0",
+  "description": "place to practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "svelte-around"
+  },
+  "keywords": [
+    "sandbox",
+    "bucket"
+  ],
+  "author": "777G",
+  "license": "ISC"
+}
